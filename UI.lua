@@ -1,3 +1,5 @@
+-- # THIS IS MADE FOR FUN
+
 local tweenservice = game:GetService("TweenService")
 local player = game.Players.LocalPlayer
 
